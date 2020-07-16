@@ -15,6 +15,3 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/extremophilarum"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
 - ⚡ Fun fact: I have travelled almost 0.07% ofthe world 
 
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=EXTREMOPHILARUM&show_icons=true)
-
-
