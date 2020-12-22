@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=extremophilarum&show_icons=true"/>
 <a href="https://github.com/extremophilarum?tab=repositories">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremophilarum&hide_langs_below=1"/>
-![GitHub metrics](https://metrics.lecoq.io/EXTREMOPHILARUM?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year)
+
+<img src="https://metrics.lecoq.io/EXTREMOPHILARUM?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year"/>
 
