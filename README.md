@@ -11,10 +11,10 @@ Here are some ideas to get you started:
     
     <br>
     <div align="center">
-    <a href="mailto:extremophilarum@gmail.com"><img height="35" src="https://crhenr.xyz/imgs/logos/gmail_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/extremophilarum"><img height="35" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/EXTREMOPHILARUM"><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/extremophilarum"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
+    <a href="mailto:extremophilarum@gmail.com"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/extremophilarum"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/EXTREMOPHILARUM"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/twitter.svg"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/extremophilarum"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
     </div>
 
 
