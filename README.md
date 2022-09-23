@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Building a pelican blog.
 - 🤔 I’m looking for help with Nvidia optimus configurations.
 - 💬 Ask me about Computer Networks, Flask, basically anything related to tech also I am very much interested in understanding the Human psyche. 
-- ⚡ Fun fact: I have travelled almost 0.07% ofthe world
     
     <br>
     <div align="center">
