@@ -1,26 +1,20 @@
-### Hello ,Saurabh here 👋
+### Hello, Saurabh here 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here's a little bit about me and what I'm up to:
 
-- 🔭 I’m currently working on Building a search engine.
-- 🌱 I’m currently learning Go.
-- 👯 I’m looking to collaborate on Building a pelican blog.
-- 🤔 I’m looking for help with Nvidia optimus configurations.
-- 💬 Ask me about Computer Networks, Flask, basically anything related to tech also I am very much interested in understanding the Human psyche. 
-    
-    <br>
-    <div align="center">
-    <a href="mailto:extremophilarum@gmail.com"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/extremophilarum"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/EXTREMOPHILARUM"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/twitter.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/extremophilarum"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
-    </div>
+- 🔭 Currently orchestrating cloud magic at Turing, where I'm modernizing systems and pioneering Kubernetes-centric architectures.
+- 🌱 Diving deep into the world of Kubernetes and advanced cloud infrastructure. 
+- 👯 Looking to collaborate on exciting DevOps projects and innovative security solutions. Got a cool project? Let's chat!
+- 🤔 Need help with tech stuff? Ask me about Python, FastAPI, Flask, Docker, or any DevOps tool. I'm also super interested in the human psyche and how we interact with tech.
+- 💬 Fun fact: I once built a search engine for an air-gapped environment that could serve 100k users simultaneously. Yup, I love challenges!
 
+When I'm not coding, you'll find me exploring new tech gadgets, visiting hackerspaces, or planning my next adventure. Feel free to reach out, whether you want to discuss a project, share some tech wisdom, or just say hi!
 
-<a href="https://github.com/extremophilarum?tab=repositories">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=extremophilarum&show_icons=true"/>
-<a href="https://github.com/extremophilarum?tab=repositories">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremophilarum&hide_langs_below=1"/>
+Happy coding! 🚀
 
-<img src="https://metrics.lecoq.io/EXTREMOPHILARUM?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year"/>
+You can also find me at:
+- [My Website](https://saurabhn.com)
+- [LinkedIn](https://www.linkedin.com/in/saurabhnandedkar/)
+- [Twitter](https://twitter.com/saurabhn)
 
+Let's make something awesome together!
