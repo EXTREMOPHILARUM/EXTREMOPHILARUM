@@ -14,10 +14,4 @@ Hi, I’m Saurabh! 🚀
   - Tinkering with Raspberry Pi and hardware to create compact, efficient solutions.  
   - Bridging traditional solutions with modern AI capabilities, especially for the Indian market.  
 - 💡 **Let’s collaborate:**  
-  Open to brainstorming, hacking, and co-creating groundbreaking tools. Always excited to discuss new ideas!  
-
-🌐 **Find me here:**  
-- [My Website](https://saurabhn.com)  
-- [LinkedIn](https://www.linkedin.com/in/saurabhnandedkar/)  
-- [Twitter](https://twitter.com/saurabhn)  
-
+  Open to brainstorming, hacking, and co-creating groundbreaking tools. Always excited to discuss new ideas!
