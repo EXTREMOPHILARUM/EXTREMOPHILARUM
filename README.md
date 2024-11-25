@@ -1,20 +1,23 @@
-### Hello, Saurabh here 👋
+### **The All-Round Innovator**  
+Hi, I’m Saurabh! 🚀  
+- 🌐 **Cloud Engineer | Backend Developer | Security Analyst** with a passion for solving complex problems through technology.  
+- 🛠️ **What I build:**  
+  - AI-powered tools for real-time monitoring, automation, and anomaly detection.  
+  - Scalable backend systems using FastAPI, React, and serverless architectures.  
+  - Local-first apps like **Marauder's Money**, a next-gen personal finance manager.  
+- 🌱 **What I’m exploring:**  
+  - **eBPF** for security innovations and performance monitoring.  
+  - **Django Rest Framework (DRF)** to level up my API game.  
+  - On-device **LLM integrations** to make AI more accessible and private.  
+- 🌏 **What I love:**  
+  - Building open-source tools that empower developers and enterprises.  
+  - Tinkering with Raspberry Pi and hardware to create compact, efficient solutions.  
+  - Bridging traditional solutions with modern AI capabilities, especially for the Indian market.  
+- 💡 **Let’s collaborate:**  
+  Open to brainstorming, hacking, and co-creating groundbreaking tools. Always excited to discuss new ideas!  
 
-Welcome to my GitHub profile! Here's a little bit about me and what I'm up to:
+🌐 **Find me here:**  
+- [My Website](https://saurabhn.com)  
+- [LinkedIn](https://www.linkedin.com/in/saurabhnandedkar/)  
+- [Twitter](https://twitter.com/saurabhn)  
 
-- 🔭 Currently orchestrating cloud magic at Turing, where I'm modernizing systems and pioneering Kubernetes-centric architectures.
-- 🌱 Diving deep into the world of Kubernetes and advanced cloud infrastructure. 
-- 👯 Looking to collaborate on exciting DevOps projects and innovative security solutions. Got a cool project? Let's chat!
-- 🤔 Need help with tech stuff? Ask me about Python, FastAPI, Flask, Docker, or any DevOps tool. I'm also super interested in the human psyche and how we interact with tech.
-- 💬 Fun fact: I once built a search engine for an air-gapped environment that could serve 100k users simultaneously. Yup, I love challenges!
-
-When I'm not coding, you'll find me exploring new tech gadgets, visiting hackerspaces, or planning my next adventure. Feel free to reach out, whether you want to discuss a project, share some tech wisdom, or just say hi!
-
-Happy coding! 🚀
-
-You can also find me at:
-- [My Website](https://saurabhn.com)
-- [LinkedIn](https://www.linkedin.com/in/saurabhnandedkar/)
-- [Twitter](https://twitter.com/saurabhn)
-
-Let's make something awesome together!
