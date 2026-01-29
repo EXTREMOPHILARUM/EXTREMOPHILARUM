@@ -8,20 +8,6 @@ I'm a full-stack security engineer and AI tinkerer with a passion for solving re
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EXTREMOPHILARUM&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EXTREMOPHILARUM&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXTREMOPHILARUM&theme=radical)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
